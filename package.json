@@ -1,0 +1,17 @@
+{
+  "name": "podium-fun",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/tape/bin/tape test/test*.js"
+  },
+  "author": "Shaun Warman",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.2"
+  },
+  "dependencies": {
+    "podium": "^1.2.3"
+  }
+}
